@@ -13,3 +13,6 @@ Bundling is a strategy being done by the buyers of the organization, but has pro
 
 ## Knowledge on the data:
 I have worked with the company's procurement data for almost 10 months, so I am familiar with how I am going to clean the data - this would involve standardizing vendor names, converting dates appropriately to allow for arithmetical operations, and merging different data sources to other lookup tables. I am also limiting the analysis to goods as data on services does not have a refined granularity. 
+
+## Why I chose this topic:
+I chose this topic because I know it would be beneficial to the company I am working with right now - it would provide value, and cost savings.
