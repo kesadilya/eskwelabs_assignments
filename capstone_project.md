@@ -5,6 +5,7 @@ I want to automate decision-making in execution of procurement operations.
 
 ## Goal/End product:
 I want to create a decision algorithm that would suggest what to do with a specific outstanding purchase request whether to:
+
 a. Not to proceed with the purchase and instead withdraw from inventory, as the certain good in the purchase request is still available in stock;
 
 b. Combine the request with other purchase requests given the same good/ group of items; and
