@@ -5,17 +5,17 @@ Analyzes all outstanding purchase requisitions and provides a suggestion feature
 
 2. Suggest a decision on what to do with the request - whether to proceed with purchase, and the strategy of executing the purchase. The decision could be one of the following:
 
-  a. The goods that are to be purchased still exist in the inventory, so there is no need to buy;
-  
-  b. If item is not inventory or there is no enough stock, and item to be good has an established master services agreement, then proceed with purchase;
-  
-  c. Good A may be bundled with all other Good As from purchase requests from different departments;
-  
-  d. Good A may be bundled with other goods, let us say Good B or C; and
-  
-  e. Goods can be combined with other services (good to have)
-  
-  f. Combination of c, d, of e.
+    a. The goods that are to be purchased still exist in the inventory, so there is no need to buy;
+
+    b. If item is not inventory or there is no enough stock, and item to be good has an established master services agreement, then proceed with purchase;
+
+    c. Good A may be bundled with all other Good As from purchase requests from different departments;
+
+    d. Good A may be bundled with other goods, let us say Good B or C; and
+
+    e. Goods can be combined with other services (good to have)
+
+    f. Combination of c, d, of e.
 
 
 # Factors to look at:
