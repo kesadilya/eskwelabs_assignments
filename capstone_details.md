@@ -17,5 +17,7 @@ Analyzes all outstanding purchase requisitions and decides whether:
 8. Unit Prices - same item that were bought from different suppliers have very different unit prices.
 
 # Data Source
-1. 6 years worth of procurement data
-2. Inventory data
+1. 6 years worth of spend data - procurement data on what good/service that was bought, suppliers, dates on deliveries, prices and spend
+2. Inventory in stock data
+3. Outstanding and processed purchase requisitions 
+
