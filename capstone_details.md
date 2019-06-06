@@ -2,9 +2,10 @@
 Analyzes all outstanding purchase requisitions and decides whether:
 
 1. The goods that are to be purchased still exist in the inventory;
-2. Good A may be bundled with all other Good As from purchase requests from different departments
-3. Good A may be bundled with other goods, let us say Good B or C; and
-3. Goods can be combined with other services (good to have).
+2. If item is not inventory or there is no enough stock, and item to be good has an established master services agreement, then proceed with purchase;
+3. Good A may be bundled with all other Good As from purchase requests from different departments;
+4. Good A may be bundled with other goods, let us say Good B or C; and
+5. Goods can be combined with other services (good to have).
 
 # Factors to look at:
 1. Historical suppliers - given an item, who were previously engaged with;
